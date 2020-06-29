@@ -1,0 +1,3 @@
+[submodule "game/2048-python"]
+	path = game/2048-python
+	url = https://github.com/yangshun/2048-python
